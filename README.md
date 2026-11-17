@@ -23,7 +23,6 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo:
 - **Frontend:** HTML, CSS, JavaScript.
 - **Diseño:** Figma, Canva.
 - **Control de versiones:** Git y GitHub.
-- **Otros:** [Agrega otras herramientas que domines].
 
 ## 📂 Mis proyectos
 
