@@ -39,6 +39,14 @@ Mi objetivo es continuar desarrollando mis habilidades, participar en proyectos 
 - **LinkedIn:** (inkedin.com/in/fernandagarcía254)
 - **Correo electrónico:** fernandagarcia.rocha254@gmail.com
 
+##maquetación
+
+<img width="388" height="442" alt="image" src="https://github.com/user-attachments/assets/477f0fc8-b249-4a9c-85d8-efd5d659119c" />
+
+-Layout en Squarespace 
+<img width="1348" height="492" alt="image" src="https://github.com/user-attachments/assets/a2878c9a-f75a-49e9-b23c-cce7a529eb8a" />
+
+
 ---
 
 ⭐ ¡Gracias por visitar mi portafolio!
