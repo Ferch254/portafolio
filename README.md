@@ -51,4 +51,4 @@ Mi objetivo es continuar desarrollando mis habilidades, participar en proyectos 
 
 ⭐ ¡Gracias por visitar mi portafolio!
 
-*Siempre hay algo nuevo que aprender y algo interesante por crear.*
+Siempre hay algo nuevo que aprender y espero sean mis acompañantes en este salto al vacío dentro de las tecnologías.
