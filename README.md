@@ -52,6 +52,6 @@ https://canva.link/0a0zrr4739rhp0h
 
 ---
 
-⭐ ¡Gracias por visitar mi portafolio!
+⭐ ¡Gracias por visitar mi portafolio en construcción!
 
 Siempre hay algo nuevo que aprender y espero sean mis acompañantes en este salto al vacío dentro de las tecnologías.
