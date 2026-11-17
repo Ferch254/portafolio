@@ -44,7 +44,10 @@ Mi objetivo es continuar desarrollando mis habilidades, participar en proyectos 
 <img width="388" height="442" alt="image" src="https://github.com/user-attachments/assets/477f0fc8-b249-4a9c-85d8-efd5d659119c" />
 
 -Layout en Squarespace 
-<img width="1348" height="492" alt="image" src="https://github.com/user-attachments/assets/a2878c9a-f75a-49e9-b23c-cce7a529eb8a" />
+<img width="1348" height="492" alt="image" src="https://github.com/user-attachments/assets/a2878c9a-f75a-49e9-b23c-cce7a529eb8a" 
+
+##moodboard 
+https://canva.link/0a0zrr4739rhp0h 
 
 
 ---
